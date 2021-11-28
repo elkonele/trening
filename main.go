@@ -24,9 +24,5 @@ func main() {
 			continue
 		}
 	}
-	// complex64, complex128
-	var c complex128 = -1.1 + 7.12i
-	c2 := -1.1 + 7.12i
 
-	fmt.Println(c, c2)
 }
